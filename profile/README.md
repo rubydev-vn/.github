@@ -1,4 +1,4 @@
-# [Ruby Development Viet Nam Co.,Ltd](https://ruby-dev.vn).
+# <img src="https://github.com/rubydev-vn/.github/blob/main/assets/icon-192x192.png" alt="Ruby dev logo" height=40/> [Ruby Development Viet Nam Co.,Ltd](https://ruby-dev.vn).
 
 <!--
 
